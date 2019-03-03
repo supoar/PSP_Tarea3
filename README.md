@@ -13,9 +13,12 @@ La aplicación tiene dos archivos, Servidor y Cliente:
 PRUEBA DE EJECUCION
 
 Pantallazo de ejecución en Servidor
+
 ![psp1](https://user-images.githubusercontent.com/15859290/53694167-39cdc780-3dab-11e9-91b3-4ec699d98b36.jpg)
 
 Pantallazo de ejecución en Cliente
+
+
 ![psp2](https://user-images.githubusercontent.com/15859290/53694170-50741e80-3dab-11e9-878a-6290290e51fe.jpg)
 
 
