@@ -12,31 +12,27 @@ La aplicación tiene dos archivos, Servidor y Cliente:
 
 PRUEBA DE EJECUCION
 
-En el pantallazo aparecen tres pruebas.
-- La primera es la prueba del ejemplo de los contenidos del curso, para refrescar conceptos.
-- La segunda es la primera prueba de las dos aplicaciones, donde se ve que genera los números pero no los ordena.
-- La tercera es la prueba definitiva donde consigo ordenar el array y mostrar los datos
+Pantallazo de ejecución en Servidor
+![psp1](https://user-images.githubusercontent.com/15859290/53694167-39cdc780-3dab-11e9-91b3-4ec699d98b36.jpg)
 
-
-
+Pantallazo de ejecución en Cliente
+![psp2](https://user-images.githubusercontent.com/15859290/53694170-50741e80-3dab-11e9-878a-6290290e51fe.jpg)
 
 
 ##Ejercicio 2
 
-La aplicación cuenta con dos proyectos:
+Subo los dos archivos con el código del Servidor y del Cliente
 
-1. La aplicación lenguaje genera una linea de una palabra compuesta de 10 letras generadas al azar.
-2. La segunda aplicación llamada colaborar genera de instancias de la aplicación 
+1. El cliente solicita al servidor un archivo txt 
+2. El servidor confirma que es el archivo que tiene y lo envia al cliente
+3. El cliente muestra por pantalla la confirmación de la recepcion
 
 PRUEBA DE EJECUCION
-En el pantallazo aparecen tres pruebas.
-- Ejecuto la primera aplicación lenguaje para ver que genera correctamente la línea:
+Pantallazo de ejecución en Servidor
 
-!
-Ejecuto desde consola la aplicación colaborar que genera 10 instancias de la aplicación lenguaje
-
-![3](https://user-images.githubusercontent.com/15859290/48977844-9893ee80-f0a2-11e8-81a8-61194375b6f7.png)
-![4](https://user-images.githubusercontent.com/15859290/48977850-c1b47f00-f0a2-11e8-9adb-fc6754ce1eff.png)
+![psp3](https://user-images.githubusercontent.com/15859290/53694230-0e97a800-3dac-11e9-8fe7-db720ae202ce.jpg)
 
 
+Pantallazo de ejecución en Cliente
 
+![psp4](https://user-images.githubusercontent.com/15859290/53694240-3129c100-3dac-11e9-9eac-59c5c67d3936.jpg)
