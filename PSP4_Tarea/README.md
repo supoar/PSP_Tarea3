@@ -3,40 +3,38 @@ Tarea para PSP01.
 
 ##Ejercicio 1
 
-La aplicación tiene dos archivos, Servidor y Cliente:
+La aplicación tiene dos archivos, ServidorThread y ClienteThread:
 
-1. El servidor genera un numero aleatorio entre 0 y 100
-2. El cliente va pidiendo numeros por teclado y se los envía al servidor para que indique si son menores o mayores. 
-3. Cuando el numero es correcto el servidor cierra la conexion
+1. El ejemplo es exactamente igual que el ejercio 1 del tema, solo que permite conectarse a varios clientes a la vez.
 
 
 PRUEBA DE EJECUCION
 
-En el pantallazo aparecen tres pruebas.
-- La primera es la prueba del ejemplo de los contenidos del curso, para refrescar conceptos.
-- La segunda es la primera prueba de las dos aplicaciones, donde se ve que genera los números pero no los ordena.
-- La tercera es la prueba definitiva donde consigo ordenar el array y mostrar los datos
+![tarea 4_1](https://user-images.githubusercontent.com/15859290/53816897-b6f06c80-3f64-11e9-910c-a919db8d4ccd.jpg)
 
+![tarea4_2](https://user-images.githubusercontent.com/15859290/53816939-cd96c380-3f64-11e9-95e2-f976b88f4939.jpg)
 
 
 
 
 ##Ejercicio 2
 
-La aplicación cuenta con dos proyectos:
+La aplicación cuenta con dos archivos ClienteFicheroThread y ServidorFicheroThread :
 
-1. La aplicación lenguaje genera una linea de una palabra compuesta de 10 letras generadas al azar.
-2. La segunda aplicación llamada colaborar genera de instancias de la aplicación 
+1. Realizan la misma tarea que el ejercicio 2 del tema 3, solo que permite la ejecución simultanea de varios clientes
 
 PRUEBA DE EJECUCION
-En el pantallazo aparecen tres pruebas.
-- Ejecuto la primera aplicación lenguaje para ver que genera correctamente la línea:
 
-!
-Ejecuto desde consola la aplicación colaborar que genera 10 instancias de la aplicación lenguaje
-
-![3](https://user-images.githubusercontent.com/15859290/48977844-9893ee80-f0a2-11e8-81a8-61194375b6f7.png)
-![4](https://user-images.githubusercontent.com/15859290/48977850-c1b47f00-f0a2-11e8-9adb-fc6754ce1eff.png)
+![seleccion_021](https://user-images.githubusercontent.com/15859290/53817213-4138d080-3f65-11e9-996c-dcc5570195dd.jpg)
 
 
+##Ejercicio 3
+La aplicación cuenta con dos archivos ClienteDirectorio y ServidorDirectorio :
 
+El cliente introduce por teclado el usuario/contraseña y la info se manda al servidor, que verifica que es correcta. Una vez verificada, muestra el contenido de un directorio y muestra por pantalla el contenido de uno de los archivos del directorio
+
+PRUEBA DE EJECUCION
+
+![seleccion_022](https://user-images.githubusercontent.com/15859290/53817661-3c285100-3f66-11e9-9d18-d0f242b443c4.jpg)
+
+![seleccion_023](https://user-images.githubusercontent.com/15859290/53817674-464a4f80-3f66-11e9-8d89-4b4b129f36fd.jpg)
